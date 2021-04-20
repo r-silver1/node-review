@@ -1,5 +1,5 @@
 
-```
+/*
 In one pass, train A can start from the source station at time T[0], halt at each station for
 h unit of time until it reaches the last stations at time T[N-1], where N is the positive integer
 representing a total number of stations.
@@ -22,7 +22,7 @@ input: t = -26.15
 output: invalid output
 
 https://www.youtube.com/watch?v=wVexYtpUHDs&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=11
-```
+*/
 //ANSWER 
 //array of increment values, each stop
 const incArr = [.04, .05, .06, .04, .03];
