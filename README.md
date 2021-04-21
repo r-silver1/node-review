@@ -51,8 +51,12 @@ output: invalid output
 https://www.youtube.com/watch?v=wVexYtpUHDs&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=11
 ```
 
+#better-recur-string-perm.js
+elegant way of finding all permutations of strings found using below video
+
 #recur-string-perm.js
 un-elegant way of finding all permutations of string, not as good as video answer but oh well
+```https://www.youtube.com/watch?v=wrx29qSadCU&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=10```
 
 https://www.youtube.com/watch?v=wrx29qSadCU&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=10
 A permutation, also called an "arrangement number" or "order", is a rearrangement of the elements
