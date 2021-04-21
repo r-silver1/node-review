@@ -51,10 +51,12 @@ output: invalid output
 https://www.youtube.com/watch?v=wVexYtpUHDs&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=11
 ```
 
-#recur-string-perm.js
-un-elegant way of finding all permutations of string, not as good as video answer but oh well
+# recur-string-perm.js
+## un-elegant way of finding all permutations of string, not as good as video answer but oh well
 
-https://www.youtube.com/watch?v=wrx29qSadCU&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=10
+```https://www.youtube.com/watch?v=wrx29qSadCU&list=PL2SluYPF9ZQXqVuw9-Z5zIPhCqMRwcSlf&index=10```
+
+```
 A permutation, also called an "arrangement number" or "order", is a rearrangement of the elements
 of an ordered list S into a one-to-one correspondonce with S itself. A string of length n has
 n! permutations
@@ -64,10 +66,13 @@ ABC ACB BAC BCA CBA CAB
 
 Question: Given an input string find all permutations of that string
 Usage in Node JS command prompt: 
-```node recur-string-perm.js <input>```
+node recur-string-perm.js <input>
 --i.e: 
-```node recur-string-perm.js abc```
+node recur-string-perm.js abc
 output:
-```{ 'abc', 'acb', 'bac', 'bca', 'cab', 'cba' }```
+...
+{ 'abc', 'acb', 'bac', 'bca', 'cab', 'cba' }
+```
+
 
 
